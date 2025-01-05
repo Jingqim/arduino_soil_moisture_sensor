@@ -3,7 +3,8 @@
 simple soil moisture sensor with led to indicate if the plant needs water or not  
 red: need watering  
 green: no need to water  
-the moisture target is set to 800 for this specific plant but can be changed depending on different needs.   
+the moisture target is set to 800 for this specific plant but can be changed depending on different needs. (ranges from 1023 to around 250)   
+
 
 schematic:   
 ![schmatic](https://github.com/user-attachments/assets/545ec8bf-e065-4d87-839b-3315ed90eb79)
