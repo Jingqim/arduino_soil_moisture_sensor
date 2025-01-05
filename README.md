@@ -39,3 +39,7 @@ void loop() {
 
 // dry (in air): ao = 1023
 // wet (submergued in water): ao < 300
+
+```
+reference: 
+https://blog.csdn.net/ling3ye/article/details/51416786
