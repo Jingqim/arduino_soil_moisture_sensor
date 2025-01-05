@@ -1,8 +1,8 @@
 # arduino soil moisture sensor
 
 simple soil moisture sensor with led to indicate if the plant needs water or not
-red: need watering
-green: no need to water
+red: need watering  
+green: no need to water  
 
 schematic: 
 ![schmatic](https://github.com/user-attachments/assets/545ec8bf-e065-4d87-839b-3315ed90eb79)
