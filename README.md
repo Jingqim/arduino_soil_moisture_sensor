@@ -21,4 +21,6 @@ https://blog.csdn.net/ling3ye/article/details/51416786
 
 update 30/3 
 - Added code for pump control
+- Added components to new schematic 
+ ![Image](https://github.com/user-attachments/assets/f07adb23-00a8-4a53-b6b1-bd8ece17aaa0)
  
